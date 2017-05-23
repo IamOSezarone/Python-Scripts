@@ -1,22 +1,3 @@
-Skip to content
-This repository
-Search
-Pull requests
-Issues
-Marketplace
-Gist
- @IamOSezarone
- Sign out
- Watch 0
-  Star 0
-  Fork 0 IamOSezarone/Python-Scripts
- Code  Issues 0  Pull requests 0  Projects 0  Wiki  Settings Insights 
-Branch: master Find file Copy pathPython-Scripts/settings.py
-8f5fc26  a day from now
-@IamOSezarone IamOSezarone GreatMice Settings File
-1 contributor
-RawBlameHistory     
-78 lines (70 sloc)  8.55 KB
 # -*- coding: utf-8 -*-
 # S E Z A R (1);
 # [ Copyright Dev-TALENT (C) All rights reserved 2015 - 2017 ]
@@ -93,4 +74,3 @@ class settings:
 			self.mouse_look='1;0,0,0,0,0,0,0,0,0'
 		if mode=='shaman':
 			self.shaman_look='0,0,0,0,0,0,0,0,0,0'
-			
