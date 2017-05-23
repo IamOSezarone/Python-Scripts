@@ -113,7 +113,7 @@ class bytearray:
 
  	def readUTFBytes(self, bytes):
  		value=self.bytes[:int(size)]
- 		sefl.bytes=self.bytes[int(size):]
+ 		self.bytes=self.bytes[int(size):]
  		return value
 
  	def toByteArray(self):
